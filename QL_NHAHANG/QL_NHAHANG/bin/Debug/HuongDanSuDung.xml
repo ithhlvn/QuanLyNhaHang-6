@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HuongDanSuDung>
+  <huongdan hdsd="huongdan" >
+      <hd>Bước 1: Đăng nhập hệ thống</hd>
+      <hd>Bước 2: Đăng nhập dưới quyền Admin</hd>
+      <hd>Bước 3: Đăng nhập hệ thống</hd>
+  </huongdan>
+  <huongdan hdsd="sudung" >
+    <hd>Bước 1: Đăng nhập hệ thống</hd>
+    <hd></hd>
+    <hd>Bước 2: Đăng nhập dưới quyền Admin</hd>
+    <hd>Bước 3: Đăng nhập hệ thống</hd>
+  </huongdan>
+</HuongDanSuDung>
+
+

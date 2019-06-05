@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HuongDanSuDung>
+  <huongdan hdsd="huongdan" >
+      <hd>Bước 1: Đăng nhập hệ thống</hd>
+      <hd>Bước 2: Đăng nhập dưới quyền Admin</hd>
+      <hd>Bước 3: Đăng nhập hệ thống</hd>
+  </huongdan>
+  <huongdan hdsd="sudung" >
+    <hd>Bước 1: Đăng nhập hệ thống</hd>
+    <hd></hd>
+    <hd>Bước 2: Đăng nhập dưới quyền Admin</hd>
+    <hd></hd>
+    <hd>Bước 3: Chọn các chức năng:
+                * QUẢN LÝ
+                  - Quản lý nhân viên
+                  - Tạo user cho nhân viên
+                  - Nhà cung cấp
+                  - Quản lý ngyên liệu
+                    + Quản lý nhóm nguyên liệu
+                    + Quản lý nguyên liệu
+                  - Quản lý bộ phận
+                * 
+    </hd>
+  </huongdan>
+</HuongDanSuDung>
+
+

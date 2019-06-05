@@ -1,0 +1,43 @@
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\bin\Debug\DTO.exe.config
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\bin\Debug\DTO.exe
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\bin\Debug\DTO.pdb
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.exe
+C:\Users\Dell\Downloads\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\QL_NHAHANG\DTO\obj\Debug\DTO.pdb
+E:\Icon\Na\QL_NHAHANG\DTO\bin\Debug\DTO.exe.config
+E:\Icon\Na\QL_NHAHANG\DTO\bin\Debug\DTO.exe
+E:\Icon\Na\QL_NHAHANG\DTO\bin\Debug\DTO.pdb
+E:\Icon\Na\QL_NHAHANG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Icon\Na\QL_NHAHANG\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\Icon\Na\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+E:\Icon\Na\QL_NHAHANG\DTO\obj\Debug\DTO.exe
+E:\Icon\Na\QL_NHAHANG\DTO\obj\Debug\DTO.pdb
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe.config
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.pdb
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.exe
+C:\Users\Mi Na\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.pdb
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe.config
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.pdb
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.exe
+C:\Users\Dell\Downloads\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.pdb
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe.config
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.exe
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\bin\Debug\DTO.pdb
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.exe
+C:\Users\Dell\Desktop\New folder (2)\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\QL_NHAHANG\DTO\obj\Debug\DTO.pdb
